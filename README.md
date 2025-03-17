@@ -44,7 +44,7 @@ build result:
 
 ## Run demo
 Upload the 3 nb files into the model directory, then you can use ls command to check the model
-![image](https://github.com/user-attachments/assets/652aeecc-d405-407f-a041-805ed5233599)
+![img_v3_02kf_f5caba2d-7db1-4f2b-b0b2-687d61b7fc0g](https://github.com/user-attachments/assets/aff5853c-c7a9-48b4-ac4a-b5502d927129)
 
 
 run run.sh to run the demo app, here is the result.
